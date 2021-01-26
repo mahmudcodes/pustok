@@ -7,25 +7,25 @@
 
 
 
-faq.html
+*faq.html
 
-order-complete.html
+*order-complete.html
 
-my-account.html
+*my-account.html
 
-login-register.html
+*login-register.html
 
-wishlist.html
+*wishlist.html
 
-compare.html
+*compare.html
 
-checkout.html
+*checkout.html
 
-cart.html
+*cart.html
 
-product-details.html
+*product-details.html
 
-shop-grid-left-sidebar.html
+*shop-grid-left-sidebar.html
 
 index-4.html ekhan theke top black ta - login thakle
 
@@ -33,3 +33,9 @@ index-2.html - slide ta
 
 index.html - menu bar ta - color green index-2.html er moto
 
+
+<?php include("includes/top_menu.php"); ?>
+
+<?php include("includes/brand_slider.php"); ?>
+
+<?php include("includes/footer.php"); ?>
