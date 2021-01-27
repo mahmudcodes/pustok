@@ -29,19 +29,19 @@
 									<div class="col-md-12 col-12 mb--15">
 										<label for="email">Full Name</label>
 										<input class="mb-0 form-control" type="text" id="name"
-											placeholder="Enter your full name">
+											placeholder="Enter your full name" name="full_name">
 									</div>
 									<div class="col-12 mb--20">
 										<label for="email">Email</label>
-										<input class="mb-0 form-control" type="email" id="email" placeholder="Enter Your Email Address Here..">
+										<input class="mb-0 form-control" type="email" id="email" placeholder="Enter Your Email Address Here.." name="email">
 									</div>
 									<div class="col-lg-6 mb--20">
 										<label for="password">Password</label>
-										<input class="mb-0 form-control" type="password" id="password" placeholder="Enter your password">
+										<input class="mb-0 form-control" type="password" id="password" placeholder="Enter your password" name="password">
 									</div>
 									<div class="col-lg-6 mb--20">
 										<label for="password">Repeat Password</label>
-										<input class="mb-0 form-control" type="password" id="repeat-password" placeholder="Repeat your password">
+										<input class="mb-0 form-control" type="password" id="repeat-password" placeholder="Repeat your password" name="repeat_password">
 									</div>
 									<div class="col-md-12">
 										<a href="#" class="btn btn-outlined">Register</a>
