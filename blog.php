@@ -40,7 +40,7 @@
 
 
                                             </p>
-                                            <a href="blog-details.html" class="blog-link">Read More</a>
+                                            <a href="blog_details.php" class="blog-link">Read More</a>
                                         </article>
                                     </div>
                                 </div>

@@ -236,7 +236,7 @@
 													<label for="accept_terms2">I’ve read and accept the terms &
 														conditions</label>
 												</div>
-												<button class="place-order w-100">Place order</button>
+												<button class="place-order w-100" onclick="location.href='order_complete.php'">Place order</button>
 											</div>
 										</div>
 									</div>
